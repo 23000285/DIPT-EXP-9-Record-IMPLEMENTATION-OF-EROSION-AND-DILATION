@@ -191,16 +191,19 @@ plt.show()
 ## Output
 
 ### Original Image
+<img width="822" height="506" alt="image" src="https://github.com/user-attachments/assets/e97b4fab-a1bf-472c-96e9-a216eac19822" />
 
-The blank image with the text **"Hello World"** is displayed as the input image.
+
 
 ### Erosion
 
-The erosion operation shrinks the boundaries of the foreground text, making the text thinner.
+<img width="854" height="500" alt="image" src="https://github.com/user-attachments/assets/97a49b83-2b86-41f6-ba90-c0c13e0e7fb7" />
+
 
 ### Dilation
+<img width="786" height="497" alt="image" src="https://github.com/user-attachments/assets/47484545-ab2d-4c9a-8b6e-fda842e83074" />
 
-The dilation operation expands the boundaries of the foreground text, making the text thicker.
+
 
 ---
 
